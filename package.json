@@ -1,0 +1,10 @@
+{
+  "name": "chatGPT",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "chatgpt": "^4.7.2",
+    "linebot": "^1.6.1",
+    "node-fetch": "^3.3.0"
+  }
+}
